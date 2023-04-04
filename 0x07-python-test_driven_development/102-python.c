@@ -1,8 +1,8 @@
 #include "Python.h"
 
 /**
- * print_python_string - Prints information about Python strings.
- * @p: A PyObject string object.
+ * print_python_string - Prints the info about Python strings.
+ * @p: The PyObject string object.
  */
 void print_python_string(PyObject *p)
 {
