@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Module for test Rectangle class """
+""" The Module for testing the Rectangle class """
 import unittest
 from io import StringIO
 from unittest import TestCase
