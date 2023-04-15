@@ -1,7 +1,6 @@
-// Playing around with Random Javascript
-
-const sayhello = (yourName) => {
-    console.log(`Hello, ${yourName}!`)
+// Playing around with some Typescript syntax
+function sayhello(yourName) {
+    console.log("Hello, ".concat(yourName));
 }
-
-sayhello('David Oduse');
+;
+sayhello("David Oduse");
