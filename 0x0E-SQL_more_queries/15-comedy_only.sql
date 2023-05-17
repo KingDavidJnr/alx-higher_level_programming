@@ -1,5 +1,5 @@
--- Lists all comedy shows in the database hbtn_0d_tvshows.
--- Records are ordered by descending show title.
+-- Displays all comedy shows in the database hbtn_0d_tvshows.
+-- Records are ordered in descending order of show titles.
 SELECT t.`title`
   FROM `tv_shows` AS t
        INNER JOIN `tv_show_genres` AS s
