@@ -1,9 +1,6 @@
 # 0x14. Javascript - Web scraping
 
-This project involved practicing file I/O on Node.js and using the NPM request
-framework to interact with both the [Star Wars](https://swapi.co/) and
-[JSONplaceholder](https://jsonplaceholder.typicode.com) API's.
-I was introduced to Javascript web scraping using the `request` and `fs` modules.
+This project helps one to understand how to manipulate JSON data using JavaScript scraping. It also helps one to understand how to use `request` and `fetch` API.
 
 ## Tasks :page_with_curl:
 
